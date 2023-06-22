@@ -2,7 +2,8 @@ package Array_String;
 
 import java.util.Arrays;
 
-//not good
+//Easy
+//not good solution
 public class Q88_Merge_Sorted_Array {
     public static void main(String[] args) {
         int[] nums1 = {1, 2, 3, 5, 6, 7, 0, 0, 0};
