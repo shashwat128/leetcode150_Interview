@@ -8,7 +8,7 @@ public class Q88_Merge_Sorted_Array {
     public static void main(String[] args) {
         int[] nums1 = {1, 2, 3, 5, 6, 7, 0, 0, 0};
         int m = 6;
-        int[] nums2 = {4, 8, 9, 0};
+        int[] nums2 = {4, 8, 9};
         int n = 3;
 
         mergeArray(nums1, m, nums2, n);
